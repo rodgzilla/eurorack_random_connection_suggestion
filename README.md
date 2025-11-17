@@ -1,6 +1,6 @@
 # Modular Synthesizer Random Patch Generator
 
-A Python program that generates random patch cable connection suggestions for modular synthesizers. Built using Test-Driven Development (TDD).
+A Python program that generates random patch cable connection suggestions for modular synthesizers. Built using Test-Driven Development (TDD). This project was entirely built using Claude Code.
 
 ## Features
 
